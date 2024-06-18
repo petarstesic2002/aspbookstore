@@ -1,0 +1,1916 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\dataaccess\\migrations\\20240617133821_change1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20240617133821_change1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A35961C-3F1D-43BE-9E39-E9BD0E95AD8F}|ASPProjekat.API\\ASPProjekat.API.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.api\\extensions\\validationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A35961C-3F1D-43BE-9E39-E9BD0E95AD8F}|ASPProjekat.API\\ASPProjekat.API.csproj|solutionrelative:aspprojekat.api\\extensions\\validationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A35961C-3F1D-43BE-9E39-E9BD0E95AD8F}|ASPProjekat.API\\ASPProjekat.API.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.api\\extensions\\controllerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A35961C-3F1D-43BE-9E39-E9BD0E95AD8F}|ASPProjekat.API\\ASPProjekat.API.csproj|solutionrelative:aspprojekat.api\\extensions\\controllerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A35961C-3F1D-43BE-9E39-E9BD0E95AD8F}|ASPProjekat.API\\ASPProjekat.API.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.api\\dto\\fileuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A35961C-3F1D-43BE-9E39-E9BD0E95AD8F}|ASPProjekat.API\\ASPProjekat.API.csproj|solutionrelative:aspprojekat.api\\dto\\fileuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A35961C-3F1D-43BE-9E39-E9BD0E95AD8F}|ASPProjekat.API\\ASPProjekat.API.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.api\\dto\\validationerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A35961C-3F1D-43BE-9E39-E9BD0E95AD8F}|ASPProjekat.API\\ASPProjekat.API.csproj|solutionrelative:aspprojekat.api\\dto\\validationerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A35961C-3F1D-43BE-9E39-E9BD0E95AD8F}|ASPProjekat.API\\ASPProjekat.API.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A35961C-3F1D-43BE-9E39-E9BD0E95AD8F}|ASPProjekat.API\\ASPProjekat.API.csproj|solutionrelative:aspprojekat.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.implementation\\logging\\efusecaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|solutionrelative:aspprojekat.implementation\\logging\\efusecaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.implementation\\usecasehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|solutionrelative:aspprojekat.implementation\\usecasehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.implementation\\usecaseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|solutionrelative:aspprojekat.implementation\\usecaseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\usecase\\iusecaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\usecase\\iusecaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.implementation\\validators\\updateeditionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|solutionrelative:aspprojekat.implementation\\validators\\updateeditionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A35961C-3F1D-43BE-9E39-E9BD0E95AD8F}|ASPProjekat.API\\ASPProjekat.API.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.api\\aspprojekat.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3A35961C-3F1D-43BE-9E39-E9BD0E95AD8F}|ASPProjekat.API\\ASPProjekat.API.csproj|solutionrelative:aspprojekat.api\\aspprojekat.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\usecase\\iusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\usecase\\iusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\exceptions\\unauthorizedusecaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\exceptions\\unauthorizedusecaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.implementation\\usecases\\commands\\efcreateedition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|solutionrelative:aspprojekat.implementation\\usecases\\commands\\efcreateedition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\usecase\\iuserusecaseprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\usecase\\iuserusecaseprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.implementation\\userimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|solutionrelative:aspprojekat.implementation\\userimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.implementation\\authorizationuserprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|solutionrelative:aspprojekat.implementation\\authorizationuserprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.implementation\\usecases\\commands\\efupdateedition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|solutionrelative:aspprojekat.implementation\\usecases\\commands\\efupdateedition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\usecase\\iuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\usecase\\iuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A35961C-3F1D-43BE-9E39-E9BD0E95AD8F}|ASPProjekat.API\\ASPProjekat.API.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.api\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A35961C-3F1D-43BE-9E39-E9BD0E95AD8F}|ASPProjekat.API\\ASPProjekat.API.csproj|solutionrelative:aspprojekat.api\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.implementation\\usecases\\commands\\efupdatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|solutionrelative:aspprojekat.implementation\\usecases\\commands\\efupdatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.implementation\\usecases\\commands\\efregisteruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|solutionrelative:aspprojekat.implementation\\usecases\\commands\\efregisteruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.implementation\\validators\\updatebookvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|solutionrelative:aspprojekat.implementation\\validators\\updatebookvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.implementation\\validators\\createeditionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|solutionrelative:aspprojekat.implementation\\validators\\createeditionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\dto\\updateeditiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\dto\\updateeditiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.implementation\\usecases\\queries\\efcheckbookavailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|solutionrelative:aspprojekat.implementation\\usecases\\queries\\efcheckbookavailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.implementation\\usecases\\commands\\efcreateorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|solutionrelative:aspprojekat.implementation\\usecases\\commands\\efcreateorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.implementation\\stringextensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|solutionrelative:aspprojekat.implementation\\stringextensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\dto\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\dto\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.implementation\\validators\\createbookvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|solutionrelative:aspprojekat.implementation\\validators\\createbookvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.implementation\\validators\\registeruservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|solutionrelative:aspprojekat.implementation\\validators\\registeruservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.implementation\\validators\\createordervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|solutionrelative:aspprojekat.implementation\\validators\\createordervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\dto\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\dto\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\dto\\createeditiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\dto\\createeditiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.implementation\\usecases\\commands\\efcreatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|solutionrelative:aspprojekat.implementation\\usecases\\commands\\efcreatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.implementation\\usecases\\efusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|solutionrelative:aspprojekat.implementation\\usecases\\efusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\commands\\iupdatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\commands\\iupdatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\commands\\iupdateedition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\commands\\iupdateedition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\commands\\icreateedition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\commands\\icreateedition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\commands\\icreatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\commands\\icreatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\dto\\imagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\dto\\imagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.implementation\\usecases\\queries\\efgetbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|solutionrelative:aspprojekat.implementation\\usecases\\queries\\efgetbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.implementation\\uploads\\base64uploader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|solutionrelative:aspprojekat.implementation\\uploads\\base64uploader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\uploads\\allowedextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\uploads\\allowedextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\dto\\usecaselogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\dto\\usecaselogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\uploads\\ibase64uploader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\uploads\\ibase64uploader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.implementation\\usecases\\queries\\efgetuserorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|solutionrelative:aspprojekat.implementation\\usecases\\queries\\efgetuserorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\dto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\dto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\queries\\igetbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\queries\\igetbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\domainlayer\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|solutionrelative:domainlayer\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\dto\\editionstoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\dto\\editionstoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\dto\\bookavailabilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\dto\\bookavailabilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\dto\\bookavailabilitysearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\dto\\bookavailabilitysearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\domainlayer\\entities\\storeedition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|solutionrelative:domainlayer\\entities\\storeedition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\domainlayer\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|solutionrelative:domainlayer\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\commands\\icreateorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\commands\\icreateorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\domainlayer\\entities\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|solutionrelative:domainlayer\\entities\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\domainlayer\\entities\\edition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|solutionrelative:domainlayer\\entities\\edition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\dataaccess\\aspcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|solutionrelative:dataaccess\\aspcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\dataaccess\\usecaseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|solutionrelative:dataaccess\\usecaseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\dataaccess\\configurations\\usecaseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|solutionrelative:dataaccess\\configurations\\usecaseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\usecase\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\usecase\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\usecase\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\usecase\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\domainlayer\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|solutionrelative:domainlayer\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\dto\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\dto\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.implementation\\usecases\\queries\\efgetusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE7B66-AF7A-46B7-8159-1DE97FFCEFCA}|ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj|solutionrelative:aspprojekat.implementation\\usecases\\queries\\efgetusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\queries\\icheckbookavailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\queries\\icheckbookavailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\dto\\userorderssearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\dto\\userorderssearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\dto\\pagedresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\dto\\pagedresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\dto\\booksearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\dto\\booksearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\dto\\userordersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\dto\\userordersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\domainlayer\\entities\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|solutionrelative:domainlayer\\entities\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\dto\\pagedsearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\dto\\pagedsearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\domainlayer\\entities\\bookgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|solutionrelative:domainlayer\\entities\\bookgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\domainlayer\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|solutionrelative:domainlayer\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\queries\\igetuserorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\queries\\igetuserorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\dto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\dto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\queries\\igetusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\queries\\igetusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\dto\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\dto\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\domainlayer\\entities\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|solutionrelative:domainlayer\\entities\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\domainlayer\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|solutionrelative:domainlayer\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\aspprojekat.applicationlayer\\commands\\iregisteruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F846A7-5ADE-44B3-97AE-4ABBB2FD5C6B}|ASPProjekat.ApplicationLayer\\ASPProjekat.ApplicationLayer.csproj|solutionrelative:aspprojekat.applicationlayer\\commands\\iregisteruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\dataaccess\\aspprojekat.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|solutionrelative:dataaccess\\aspprojekat.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\domainlayer\\entities\\usecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|solutionrelative:domainlayer\\entities\\usecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\domainlayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|solutionrelative:domainlayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\domainlayer\\entities\\usecaselog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|solutionrelative:domainlayer\\entities\\usecaselog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\domainlayer\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|solutionrelative:domainlayer\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\domainlayer\\entities\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|solutionrelative:domainlayer\\entities\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\domainlayer\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|solutionrelative:domainlayer\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Migrations\\20240615234220_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccess\\Migrations\\20240615234220_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\dataaccess\\configurations\\roleusecaseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|solutionrelative:dataaccess\\configurations\\roleusecaseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\dataaccess\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|solutionrelative:dataaccess\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\dataaccess\\configurations\\wishlistconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|solutionrelative:dataaccess\\configurations\\wishlistconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\dataaccess\\configurations\\usecaselogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|solutionrelative:dataaccess\\configurations\\usecaselogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\dataaccess\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|solutionrelative:dataaccess\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\domainlayer\\entities\\roleusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|solutionrelative:domainlayer\\entities\\roleusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\dataaccess\\configurations\\editionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|solutionrelative:dataaccess\\configurations\\editionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\dataaccess\\configurations\\imageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|solutionrelative:dataaccess\\configurations\\imageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\dataaccess\\configurations\\orderitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|solutionrelative:dataaccess\\configurations\\orderitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\dataaccess\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|solutionrelative:dataaccess\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\dataaccess\\configurations\\countryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|solutionrelative:dataaccess\\configurations\\countryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\dataaccess\\configurations\\priceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|solutionrelative:dataaccess\\configurations\\priceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\dataaccess\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|solutionrelative:dataaccess\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\dataaccess\\configurations\\storeeditionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|solutionrelative:dataaccess\\configurations\\storeeditionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\dataaccess\\configurations\\bookgenreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|solutionrelative:dataaccess\\configurations\\bookgenreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\dataaccess\\configurations\\genreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|solutionrelative:dataaccess\\configurations\\genreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\dataaccess\\configurations\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|solutionrelative:dataaccess\\configurations\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\dataaccess\\configurations\\cityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|solutionrelative:dataaccess\\configurations\\cityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\domainlayer\\entities\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|solutionrelative:domainlayer\\entities\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\dataaccess\\configurations\\publisherconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|solutionrelative:dataaccess\\configurations\\publisherconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\dataaccess\\configurations\\storeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|solutionrelative:dataaccess\\configurations\\storeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\domainlayer\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|solutionrelative:domainlayer\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\dataaccess\\configurations\\entityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|solutionrelative:dataaccess\\configurations\\entityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\domainlayer\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EDE3FA-3845-46DF-87E9-6E9542A07F0F}|DomainLayer\\ASPProjekat.DomainLayer.csproj|solutionrelative:domainlayer\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|c:\\users\\petar\\source\\repos\\aspprojekat\\dataaccess\\migrations\\20240616004552_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79261A1F-EB8E-4C9C-B3B3-FDD90B449096}|DataAccess\\ASPProjekat.DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20240616004552_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthorizationUserProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\AuthorizationUserProvider.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.Implementation\\AuthorizationUserProvider.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\AuthorizationUserProvider.cs",
+              "RelativeToolTip": "ASPProjekat.Implementation\\AuthorizationUserProvider.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAtwBYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:32:30.68Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EfUpdateEdition.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\UseCases\\Commands\\EfUpdateEdition.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.Implementation\\UseCases\\Commands\\EfUpdateEdition.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\UseCases\\Commands\\EfUpdateEdition.cs",
+              "RelativeToolTip": "ASPProjekat.Implementation\\UseCases\\Commands\\EfUpdateEdition.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowDsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T10:05:41.202Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EfUpdateBook.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\UseCases\\Commands\\EfUpdateBook.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.Implementation\\UseCases\\Commands\\EfUpdateBook.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\UseCases\\Commands\\EfUpdateBook.cs",
+              "RelativeToolTip": "ASPProjekat.Implementation\\UseCases\\Commands\\EfUpdateBook.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowB0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:28:11.851Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EfCreateOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\UseCases\\Commands\\EfCreateOrder.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.Implementation\\UseCases\\Commands\\EfCreateOrder.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\UseCases\\Commands\\EfCreateOrder.cs",
+              "RelativeToolTip": "ASPProjekat.Implementation\\UseCases\\Commands\\EfCreateOrder.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwC4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:06:12.19Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EfCreateBook.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\UseCases\\Commands\\EfCreateBook.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.Implementation\\UseCases\\Commands\\EfCreateBook.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\UseCases\\Commands\\EfCreateBook.cs",
+              "RelativeToolTip": "ASPProjekat.Implementation\\UseCases\\Commands\\EfCreateBook.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwCIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:20:31.031Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CreateEditionDto.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\CreateEditionDto.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\DTO\\CreateEditionDto.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\CreateEditionDto.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\DTO\\CreateEditionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:07:11.926Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EfRegisterUser.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\UseCases\\Commands\\EfRegisterUser.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.Implementation\\UseCases\\Commands\\EfRegisterUser.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\UseCases\\Commands\\EfRegisterUser.cs",
+              "RelativeToolTip": "ASPProjekat.Implementation\\UseCases\\Commands\\EfRegisterUser.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:40:51.93Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CreateBookDto.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\CreateBookDto.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\DTO\\CreateBookDto.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\CreateBookDto.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\DTO\\CreateBookDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:04:50.547Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240617133821_Change1.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Migrations\\20240617133821_Change1.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20240617133821_Change1.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Migrations\\20240617133821_Change1.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20240617133821_Change1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:38:22.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidationExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.API\\Extensions\\ValidationExtensions.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.API\\Extensions\\ValidationExtensions.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.API\\Extensions\\ValidationExtensions.cs",
+              "RelativeToolTip": "ASPProjekat.API\\Extensions\\ValidationExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:06:26.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ControllerExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.API\\Extensions\\ControllerExtensions.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.API\\Extensions\\ControllerExtensions.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.API\\Extensions\\ControllerExtensions.cs",
+              "RelativeToolTip": "ASPProjekat.API\\Extensions\\ControllerExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:05:24.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileUploadDto.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.API\\DTO\\FileUploadDto.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.API\\DTO\\FileUploadDto.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.API\\DTO\\FileUploadDto.cs",
+              "RelativeToolTip": "ASPProjekat.API\\DTO\\FileUploadDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:04:21.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidationError.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.API\\DTO\\ValidationError.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.API\\DTO\\ValidationError.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.API\\DTO\\ValidationError.cs",
+              "RelativeToolTip": "ASPProjekat.API\\DTO\\ValidationError.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:03:44.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.API\\Program.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.API\\Program.cs",
+              "RelativeToolTip": "ASPProjekat.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:36:22.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateEditionValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\Validators\\UpdateEditionValidator.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.Implementation\\Validators\\UpdateEditionValidator.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\Validators\\UpdateEditionValidator.cs",
+              "RelativeToolTip": "ASPProjekat.Implementation\\Validators\\UpdateEditionValidator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T10:41:59.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\UseCase\\IUseCase.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\UseCase\\IUseCase.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\UseCase\\IUseCase.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\UseCase\\IUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:30:01.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ASPProjekat.API.http",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.API\\ASPProjekat.API.http",
+              "RelativeDocumentMoniker": "ASPProjekat.API\\ASPProjekat.API.http",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.API\\ASPProjekat.API.http",
+              "RelativeToolTip": "ASPProjekat.API\\ASPProjekat.API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-17T11:07:50.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUseCaseLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\UseCase\\IUseCaseLogger.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\UseCase\\IUseCaseLogger.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\UseCase\\IUseCaseLogger.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\UseCase\\IUseCaseLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:29:15.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UseCaseHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\UseCaseHandler.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.Implementation\\UseCaseHandler.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\UseCaseHandler.cs",
+              "RelativeToolTip": "ASPProjekat.Implementation\\UseCaseHandler.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAArwDEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T00:50:45.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UseCaseInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\UseCaseInfo.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.Implementation\\UseCaseInfo.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\UseCaseInfo.cs",
+              "RelativeToolTip": "ASPProjekat.Implementation\\UseCaseInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:37:03.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EfUseCaseLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\Logging\\EfUseCaseLogger.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.Implementation\\Logging\\EfUseCaseLogger.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\Logging\\EfUseCaseLogger.cs",
+              "RelativeToolTip": "ASPProjekat.Implementation\\Logging\\EfUseCaseLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:34:48.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EfCreateEdition.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\UseCases\\Commands\\EfCreateEdition.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.Implementation\\UseCases\\Commands\\EfCreateEdition.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\UseCases\\Commands\\EfCreateEdition.cs",
+              "RelativeToolTip": "ASPProjekat.Implementation\\UseCases\\Commands\\EfCreateEdition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T23:53:01.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserUseCaseProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\UseCase\\IUserUseCaseProvider.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\UseCase\\IUserUseCaseProvider.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\UseCase\\IUserUseCaseProvider.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\UseCase\\IUserUseCaseProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T10:20:30.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnauthorizedUseCaseException.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\Exceptions\\UnauthorizedUseCaseException.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\Exceptions\\UnauthorizedUseCaseException.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\Exceptions\\UnauthorizedUseCaseException.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\Exceptions\\UnauthorizedUseCaseException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:18:25.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\UserImplementation.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.Implementation\\UserImplementation.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\UserImplementation.cs",
+              "RelativeToolTip": "ASPProjekat.Implementation\\UserImplementation.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAlwBIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:32:39.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUserUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\UseCase\\IUserUseCase.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\UseCase\\IUserUseCase.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\UseCase\\IUserUseCase.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\UseCase\\IUserUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:17:57.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.API\\AppSettings.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.API\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.API\\AppSettings.cs",
+              "RelativeToolTip": "ASPProjekat.API\\AppSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:07:36.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateBookValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\Validators\\UpdateBookValidator.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.Implementation\\Validators\\UpdateBookValidator.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\Validators\\UpdateBookValidator.cs",
+              "RelativeToolTip": "ASPProjekat.Implementation\\Validators\\UpdateBookValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:36:52.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateEditionValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\Validators\\CreateEditionValidator.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.Implementation\\Validators\\CreateEditionValidator.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\Validators\\CreateEditionValidator.cs",
+              "RelativeToolTip": "ASPProjekat.Implementation\\Validators\\CreateEditionValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T23:55:20.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UpdateEditionDto.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\UpdateEditionDto.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\DTO\\UpdateEditionDto.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\UpdateEditionDto.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\DTO\\UpdateEditionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T08:54:03.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\StringExtensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.Implementation\\StringExtensions\\StringExtensions.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\StringExtensions\\StringExtensions.cs",
+              "RelativeToolTip": "ASPProjekat.Implementation\\StringExtensions\\StringExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:53:33.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EfCheckBookAvailability.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\UseCases\\Queries\\EfCheckBookAvailability.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.Implementation\\UseCases\\Queries\\EfCheckBookAvailability.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\UseCases\\Queries\\EfCheckBookAvailability.cs",
+              "RelativeToolTip": "ASPProjekat.Implementation\\UseCases\\Queries\\EfCheckBookAvailability.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwCEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:36:03.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UpdateBookDto.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\UpdateBookDto.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\DTO\\UpdateBookDto.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\UpdateBookDto.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\DTO\\UpdateBookDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T08:54:43.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateBookValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\Validators\\CreateBookValidator.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.Implementation\\Validators\\CreateBookValidator.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\Validators\\CreateBookValidator.cs",
+              "RelativeToolTip": "ASPProjekat.Implementation\\Validators\\CreateBookValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:06:26.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RegisterUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\Validators\\RegisterUserValidator.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.Implementation\\Validators\\RegisterUserValidator.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\Validators\\RegisterUserValidator.cs",
+              "RelativeToolTip": "ASPProjekat.Implementation\\Validators\\RegisterUserValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:37:43.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreateOrderValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\Validators\\CreateOrderValidator.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.Implementation\\Validators\\CreateOrderValidator.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\Validators\\CreateOrderValidator.cs",
+              "RelativeToolTip": "ASPProjekat.Implementation\\Validators\\CreateOrderValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:08:44.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EfUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\UseCases\\EfUseCase.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.Implementation\\UseCases\\EfUseCase.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\UseCases\\EfUseCase.cs",
+              "RelativeToolTip": "ASPProjekat.Implementation\\UseCases\\EfUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:32:28.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IUpdateBook.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\Commands\\IUpdateBook.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\Commands\\IUpdateBook.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\Commands\\IUpdateBook.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\Commands\\IUpdateBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:35:33.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\BookDto.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\DTO\\BookDto.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\BookDto.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\DTO\\BookDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T10:28:28.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IUpdateEdition.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\Commands\\IUpdateEdition.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\Commands\\IUpdateEdition.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\Commands\\IUpdateEdition.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\Commands\\IUpdateEdition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T08:51:52.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ICreateBook.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\Commands\\ICreateBook.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\Commands\\ICreateBook.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\Commands\\ICreateBook.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\Commands\\ICreateBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T10:27:07.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ICreateEdition.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\Commands\\ICreateEdition.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\Commands\\ICreateEdition.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\Commands\\ICreateEdition.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\Commands\\ICreateEdition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:16:21.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ImageDto.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\ImageDto.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\DTO\\ImageDto.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\ImageDto.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\DTO\\ImageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:10:54.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EfGetBooks.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\UseCases\\Queries\\EfGetBooks.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.Implementation\\UseCases\\Queries\\EfGetBooks.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\UseCases\\Queries\\EfGetBooks.cs",
+              "RelativeToolTip": "ASPProjekat.Implementation\\UseCases\\Queries\\EfGetBooks.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwCsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T16:38:23.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Base64Uploader.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\Uploads\\Base64Uploader.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.Implementation\\Uploads\\Base64Uploader.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\Uploads\\Base64Uploader.cs",
+              "RelativeToolTip": "ASPProjekat.Implementation\\Uploads\\Base64Uploader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:48:35.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AllowedExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\Uploads\\AllowedExtensions.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\Uploads\\AllowedExtensions.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\Uploads\\AllowedExtensions.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\Uploads\\AllowedExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:28:11.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UseCaseLogDto.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\UseCaseLogDto.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\DTO\\UseCaseLogDto.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\UseCaseLogDto.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\DTO\\UseCaseLogDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:31:28.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IBase64Uploader.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\Uploads\\IBase64Uploader.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\Uploads\\IBase64Uploader.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\Uploads\\IBase64Uploader.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\Uploads\\IBase64Uploader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T00:26:51.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "EfGetUserOrders.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\UseCases\\Queries\\EfGetUserOrders.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.Implementation\\UseCases\\Queries\\EfGetUserOrders.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\UseCases\\Queries\\EfGetUserOrders.cs",
+              "RelativeToolTip": "ASPProjekat.Implementation\\UseCases\\Queries\\EfGetUserOrders.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wC0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:13:12.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\DTO\\OrderItemDto.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\OrderItemDto.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\DTO\\OrderItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:22:08.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IGetBooks.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\Queries\\IGetBooks.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\Queries\\IGetBooks.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\Queries\\IGetBooks.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\Queries\\IGetBooks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:58:19.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T10:54:07.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "EditionStoreDto.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\EditionStoreDto.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\DTO\\EditionStoreDto.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\EditionStoreDto.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\DTO\\EditionStoreDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:40:01.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "BookAvailabilityDto.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\BookAvailabilityDto.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\DTO\\BookAvailabilityDto.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\BookAvailabilityDto.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\DTO\\BookAvailabilityDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:30:34.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "BookAvailabilitySearchDto.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\BookAvailabilitySearchDto.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\DTO\\BookAvailabilitySearchDto.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\BookAvailabilitySearchDto.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\DTO\\BookAvailabilitySearchDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:29:46.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "StoreEdition.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\StoreEdition.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\StoreEdition.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\StoreEdition.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\StoreEdition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:58:03.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\Order.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T10:53:16.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Price.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\Price.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\Price.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\Price.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\Price.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T10:27:14.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Edition.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\Edition.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\Edition.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\Edition.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\Edition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:52:25.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ICreateOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\Commands\\ICreateOrder.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\Commands\\ICreateOrder.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\Commands\\ICreateOrder.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\Commands\\ICreateOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:24:21.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ASPContext.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\ASPContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ASPContext.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\ASPContext.cs",
+              "RelativeToolTip": "DataAccess\\ASPContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:36:09.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "UseCaseConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\UseCaseConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Configurations\\UseCaseConfiguration.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\UseCaseConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\Configurations\\UseCaseConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T23:36:39.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UseCaseConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\UseCaseConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\UseCaseConfiguration.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\UseCaseConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\UseCaseConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T23:22:13.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\UseCase\\ICommand.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\UseCase\\ICommand.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\UseCase\\ICommand.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\UseCase\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T10:23:05.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\UseCase\\IQuery.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\UseCase\\IQuery.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\UseCase\\IQuery.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\UseCase\\IQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T00:48:38.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "EfGetUsers.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\UseCases\\Queries\\EfGetUsers.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.Implementation\\UseCases\\Queries\\EfGetUsers.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\UseCases\\Queries\\EfGetUsers.cs",
+              "RelativeToolTip": "ASPProjekat.Implementation\\UseCases\\Queries\\EfGetUsers.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwCoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:27:09.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "BookSearchDto.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\BookSearchDto.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\DTO\\BookSearchDto.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\BookSearchDto.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\DTO\\BookSearchDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T16:42:58.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\Book.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:40:36.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "GenreDto.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\GenreDto.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\DTO\\GenreDto.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\GenreDto.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\DTO\\GenreDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:56:30.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ICheckBookAvailability.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\Queries\\ICheckBookAvailability.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\Queries\\ICheckBookAvailability.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\Queries\\ICheckBookAvailability.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\Queries\\ICheckBookAvailability.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:00:40.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "UserOrdersSearchDto.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\UserOrdersSearchDto.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\DTO\\UserOrdersSearchDto.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\UserOrdersSearchDto.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\DTO\\UserOrdersSearchDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:12:43.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "PagedResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\PagedResponseDto.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\DTO\\PagedResponseDto.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\PagedResponseDto.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\DTO\\PagedResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:48:44.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "UserOrdersDto.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\UserOrdersDto.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\DTO\\UserOrdersDto.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\UserOrdersDto.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\DTO\\UserOrdersDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T18:21:21.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "PagedSearchDto.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\PagedSearchDto.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\DTO\\PagedSearchDto.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\PagedSearchDto.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\DTO\\PagedSearchDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:37:43.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Wishlist.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\Wishlist.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\Wishlist.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\Wishlist.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\Wishlist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T10:50:26.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "BookGenre.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\BookGenre.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\BookGenre.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\BookGenre.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\BookGenre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:49:00.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\Genre.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\Genre.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\Genre.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:39:30.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\DTO\\RegisterUserDto.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\RegisterUserDto.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\DTO\\RegisterUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T10:27:33.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "IGetUserOrders.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\Queries\\IGetUserOrders.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\Queries\\IGetUserOrders.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\Queries\\IGetUserOrders.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\Queries\\IGetUserOrders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T00:48:47.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\DTO\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\UserDto.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\DTO\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:36:14.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "IGetUsers.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\Queries\\IGetUsers.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\Queries\\IGetUsers.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\Queries\\IGetUsers.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\Queries\\IGetUsers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:28:25.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\DTO\\CreateOrderDto.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\DTO\\CreateOrderDto.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\DTO\\CreateOrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:20:26.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\Store.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\Store.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\Store.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\Store.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:45:47.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\Entity.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\Entity.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:52:44.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "IRegisterUser.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\Commands\\IRegisterUser.cs",
+              "RelativeDocumentMoniker": "ASPProjekat.ApplicationLayer\\Commands\\IRegisterUser.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.ApplicationLayer\\Commands\\IRegisterUser.cs",
+              "RelativeToolTip": "ASPProjekat.ApplicationLayer\\Commands\\IRegisterUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T10:22:38.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "20240616004552_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Migrations\\20240616004552_Initial.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20240616004552_Initial.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Migrations\\20240616004552_Initial.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20240616004552_Initial.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T00:45:53.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\Image.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\Image.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\Image.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\Image.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T10:07:56.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\Country.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\Country.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:46:58.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "UseCaseLog.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\UseCaseLog.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\UseCaseLog.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\UseCaseLog.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\UseCaseLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T10:02:55.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\User.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:55:28.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "UseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\UseCase.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\UseCase.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\UseCase.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\UseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T23:11:45.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ASPProjekat.DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\ASPProjekat.DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\ASPProjekat.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\ASPProjekat.DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\ASPProjekat.DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-15T12:40:36.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\Role.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:54:37.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "20240615234220_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Migrations\\20240615234220_Initial.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20240615234220_Initial.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Migrations\\20240615234220_Initial.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20240615234220_Initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T23:42:20.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "RoleUseCaseConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\RoleUseCaseConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Configurations\\RoleUseCaseConfiguration.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\RoleUseCaseConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\Configurations\\RoleUseCaseConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T23:39:35.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "RoleUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\RoleUseCase.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\RoleUseCase.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\RoleUseCase.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\RoleUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T23:13:09.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:26:30.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "UseCaseLogConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\UseCaseLogConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Configurations\\UseCaseLogConfiguration.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\UseCaseLogConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\Configurations\\UseCaseLogConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T19:15:12.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "WishlistConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\WishlistConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Configurations\\WishlistConfiguration.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\WishlistConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\Configurations\\WishlistConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T19:11:46.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "RoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\RoleConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Configurations\\RoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\RoleConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\Configurations\\RoleConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:24:11.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "EditionConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\EditionConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Configurations\\EditionConfiguration.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\EditionConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\Configurations\\EditionConfiguration.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwDEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T19:04:53.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "PriceConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\PriceConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Configurations\\PriceConfiguration.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\PriceConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\Configurations\\PriceConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T19:19:07.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Configurations\\OrderConfiguration.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\OrderConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\Configurations\\OrderConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T19:23:19.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "OrderItemConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\OrderItemConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Configurations\\OrderItemConfiguration.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\OrderItemConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\Configurations\\OrderItemConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T19:26:09.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "ImageConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\ImageConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Configurations\\ImageConfiguration.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\ImageConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\Configurations\\ImageConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T19:28:00.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "BookConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\BookConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Configurations\\BookConfiguration.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\BookConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\Configurations\\BookConfiguration.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIBZwBwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T18:58:31.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "CountryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\CountryConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Configurations\\CountryConfiguration.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\CountryConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\Configurations\\CountryConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:54:06.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "StoreEditionConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\StoreEditionConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Configurations\\StoreEditionConfiguration.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\StoreEditionConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\Configurations\\StoreEditionConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T19:13:23.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "BookGenreConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\BookGenreConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Configurations\\BookGenreConfiguration.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\BookGenreConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\Configurations\\BookGenreConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABRwBUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T19:02:01.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "CityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\CityConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Configurations\\CityConfiguration.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\CityConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\Configurations\\CityConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwB4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:55:21.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "GenreConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\GenreConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Configurations\\GenreConfiguration.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\GenreConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\Configurations\\GenreConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:52:17.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\Publisher.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\Publisher.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\Publisher.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\Publisher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:56:47.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "PublisherConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\PublisherConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Configurations\\PublisherConfiguration.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\PublisherConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\Configurations\\PublisherConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:01:20.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "AuthorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\AuthorConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Configurations\\AuthorConfiguration.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\AuthorConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\Configurations\\AuthorConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:42:50.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "StoreConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\StoreConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Configurations\\StoreConfiguration.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\StoreConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\Configurations\\StoreConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T18:54:53.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\City.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\City.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\City.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:46:32.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "EntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\EntityConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Configurations\\EntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DataAccess\\Configurations\\EntityConfiguration.cs",
+              "RelativeToolTip": "DataAccess\\Configurations\\EntityConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:45:52.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\Author.cs",
+              "ToolTip": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\DomainLayer\\Entities\\Author.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:38:29.101Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
