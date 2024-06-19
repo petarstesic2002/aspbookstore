@@ -14,9 +14,9 @@ namespace ASPProjekat.Implementation.UseCases.Commands
 {
     public class EfUpdateBook:EfUseCase,IUpdateBook
     {
-        public int Id => 4;
+        public int Id => 9;
         public string Name => "Update Book";
-        private ASPContext Context;
+        //private ASPContext Context;
         private UpdateBookValidator _validator;
         public EfUpdateBook(ASPContext context,UpdateBookValidator validator):base(context)
         {

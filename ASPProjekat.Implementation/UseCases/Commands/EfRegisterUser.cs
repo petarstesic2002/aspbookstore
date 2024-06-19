@@ -14,10 +14,10 @@ namespace ASPProjekat.Implementation.UseCases.Commands
 {
     public class EfRegisterUser:EfUseCase,IRegisterUser
     {
-        public int Id => 2;//Zameni posle
+        public int Id => 5;
         public string Name => "Create User";
 
-        private ASPContext Context;
+       // private ASPContext Context;
         private RegisterUserValidator _validator;
 
         public EfRegisterUser(ASPContext context, RegisterUserValidator validator)
@@ -25,8 +25,10 @@ namespace ASPProjekat.Implementation.UseCases.Commands
         {
             _validator = validator;
         }
+        
         public void Execute(RegisterUserDto data)
         {
+            string passwordHash = BCrypt.Net.BCrypt.HashPassword(data.Password);
             _validator.ValidateAndThrow(data);
             ASPProjekat.DomainLayer.Entities.User user = new ASPProjekat.DomainLayer.Entities.User
             {

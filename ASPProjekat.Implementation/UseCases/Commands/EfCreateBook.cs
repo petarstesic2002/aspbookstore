@@ -14,9 +14,9 @@ namespace ASPProjekat.Implementation.UseCases.Commands
 {
     public class EfCreateBook:EfUseCase,ICreateBook
     {
-        public int Id => 2;
+        public int Id => 6;
         public string Name => "Create Book";
-        private ASPContext Context;
+        //private ASPContext Context;
         private CreateBookValidator _validator;
         public EfCreateBook(ASPContext context, CreateBookValidator validator):base(context)
         {
@@ -29,6 +29,7 @@ namespace ASPProjekat.Implementation.UseCases.Commands
             {
                 AuthorId = data.AuthorId,
                 Title = data.Title,
+                Description=data.Description,
                 PublicationYear = data.PublicationYear,
                 Isbn = data.Isbn,
             };

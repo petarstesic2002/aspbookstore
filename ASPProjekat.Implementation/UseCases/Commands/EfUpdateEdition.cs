@@ -14,9 +14,9 @@ namespace ASPProjekat.Implementation.UseCases.Commands
 {
     public class EfUpdateEdition:EfUseCase,IUpdateEdition
     {
-        public int Id => 4;
+        public int Id => 10;
         public string Name => "Update Edition";
-        private ASPContext Context;
+        //private ASPContext Context;
         private UpdateEditionValidator _validator;
         public EfUpdateEdition(ASPContext context, UpdateEditionValidator validator) : base(context)
         {

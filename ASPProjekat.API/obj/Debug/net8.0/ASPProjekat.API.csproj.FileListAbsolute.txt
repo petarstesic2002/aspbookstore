@@ -83,3 +83,5 @@ C:\Users\Petar\source\repos\ASPProjekat\ASPProjekat.API\obj\Debug\net8.0\ASPProj
 C:\Users\Petar\source\repos\ASPProjekat\ASPProjekat.API\obj\Debug\net8.0\ASPProjekat.API.genruntimeconfig.cache
 C:\Users\Petar\source\repos\ASPProjekat\ASPProjekat.API\obj\Debug\net8.0\ref\ASPProjekat.API.dll
 C:\Users\Petar\source\repos\ASPProjekat\ASPProjekat.API\obj\Debug\net8.0\ASPProjekat.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Petar\source\repos\ASPProjekat\ASPProjekat.API\bin\Debug\net8.0\BCrypt.Net.dll
+C:\Users\Petar\source\repos\ASPProjekat\ASPProjekat.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

@@ -8,6 +8,6 @@ namespace ASPProjekat.ApplicationLayer.DTO
 {
     public class UserSearchDto:PagedSearch
     {
-        public string Keyword {  get; set; }
+        public string Keyword { get; set; } = "";
     }
 }

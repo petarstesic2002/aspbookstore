@@ -8,7 +8,7 @@ namespace ASPProjekat.ApplicationLayer.DTO
 {
     public class BookAvailabilitySearchDto:PagedSearch
     {
-        public string Book { get; set; }
-        public int BookId { get; set; }
+        public string Book { get; set; } = "";
+        public int BookId { get; set; } = 0;
     }
 }

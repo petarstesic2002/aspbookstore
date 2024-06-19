@@ -14,9 +14,9 @@ namespace ASPProjekat.Implementation.UseCases.Commands
 {
     public class EfCreateOrder:EfUseCase,ICreateOrder
     {
-        public int Id => 2;
+        public int Id => 3;
         public string Name => "Create Orders";
-        private ASPContext Context;
+        //private ASPContext Context;
         private CreateOrderValidator _validator;
         public EfCreateOrder(ASPContext context, CreateOrderValidator validator) : base(context)
         {

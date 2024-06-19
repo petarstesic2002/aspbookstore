@@ -52,6 +52,20 @@ namespace ASPProjekat.DataAccess.Migrations
                         .IsUnique();
 
                     b.ToTable("Authors");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Name = "George Martin"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Name = "JK Rowling"
+                        });
                 });
 
             modelBuilder.Entity("ASPProjekat.DomainLayer.Entities.Book", b =>
@@ -104,6 +118,38 @@ namespace ASPProjekat.DataAccess.Migrations
                         .IsUnique();
 
                     b.ToTable("Books");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            AuthorId = 2,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Description = "Harry Potter Wizard Prodigy",
+                            Isbn = "harrypotterisbn",
+                            PublicationYear = "2002",
+                            Title = "Harry Potter"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            AuthorId = 1,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Description = "Game Of Thrones Book",
+                            Isbn = "gotisbn",
+                            PublicationYear = "2003",
+                            Title = "Game Of Thrones"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            AuthorId = 1,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Description = "Attack On Titan - Shingeki No Kyojin",
+                            Isbn = "aotisbn",
+                            PublicationYear = "2017",
+                            Title = "Attack On Titan"
+                        });
                 });
 
             modelBuilder.Entity("ASPProjekat.DomainLayer.Entities.BookGenre", b =>
@@ -138,6 +184,43 @@ namespace ASPProjekat.DataAccess.Migrations
                     b.HasIndex("GenreId");
 
                     b.ToTable("BooksGenres");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            BookId = 1,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            GenreId = 1
+                        },
+                        new
+                        {
+                            Id = 2,
+                            BookId = 2,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            GenreId = 1
+                        },
+                        new
+                        {
+                            Id = 3,
+                            BookId = 2,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            GenreId = 2
+                        },
+                        new
+                        {
+                            Id = 4,
+                            BookId = 3,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            GenreId = 1
+                        },
+                        new
+                        {
+                            Id = 5,
+                            BookId = 3,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            GenreId = 3
+                        });
                 });
 
             modelBuilder.Entity("ASPProjekat.DomainLayer.Entities.City", b =>
@@ -180,6 +263,24 @@ namespace ASPProjekat.DataAccess.Migrations
                         .IsUnique();
 
                     b.ToTable("Cities");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CountryId = 1,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Name = "London",
+                            ZipCode = "zip1"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CountryId = 1,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Name = "Manchester",
+                            ZipCode = "zip2"
+                        });
                 });
 
             modelBuilder.Entity("ASPProjekat.DomainLayer.Entities.Country", b =>
@@ -212,6 +313,14 @@ namespace ASPProjekat.DataAccess.Migrations
                         .IsUnique();
 
                     b.ToTable("Countries");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Name = "United Kingdom"
+                        });
                 });
 
             modelBuilder.Entity("ASPProjekat.DomainLayer.Entities.Edition", b =>
@@ -251,6 +360,48 @@ namespace ASPProjekat.DataAccess.Migrations
                     b.HasIndex("PublisherId");
 
                     b.ToTable("Editions");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            BookId = 1,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            ImageId = 1,
+                            PublisherId = 1
+                        },
+                        new
+                        {
+                            Id = 2,
+                            BookId = 1,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            ImageId = 1,
+                            PublisherId = 2
+                        },
+                        new
+                        {
+                            Id = 3,
+                            BookId = 2,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            ImageId = 1,
+                            PublisherId = 1
+                        },
+                        new
+                        {
+                            Id = 4,
+                            BookId = 3,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            ImageId = 1,
+                            PublisherId = 1
+                        },
+                        new
+                        {
+                            Id = 5,
+                            BookId = 3,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            ImageId = 1,
+                            PublisherId = 2
+                        });
                 });
 
             modelBuilder.Entity("ASPProjekat.DomainLayer.Entities.Genre", b =>
@@ -283,6 +434,26 @@ namespace ASPProjekat.DataAccess.Migrations
                         .IsUnique();
 
                     b.ToTable("Genres");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Name = "Fantasy"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Name = "Drama"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Name = "Manga"
+                        });
                 });
 
             modelBuilder.Entity("ASPProjekat.DomainLayer.Entities.Image", b =>
@@ -311,6 +482,14 @@ namespace ASPProjekat.DataAccess.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Images");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Path = "default.png"
+                        });
                 });
 
             modelBuilder.Entity("ASPProjekat.DomainLayer.Entities.Order", b =>
@@ -340,6 +519,14 @@ namespace ASPProjekat.DataAccess.Migrations
                     b.HasIndex("UserId");
 
                     b.ToTable("Orders");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            UserId = 1
+                        });
                 });
 
             modelBuilder.Entity("ASPProjekat.DomainLayer.Entities.OrderItem", b =>
@@ -382,6 +569,26 @@ namespace ASPProjekat.DataAccess.Migrations
                     b.HasIndex("PriceId");
 
                     b.ToTable("OrderItems");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            EditionId = 3,
+                            OrderId = 1,
+                            PriceId = 4,
+                            Quantity = 0
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            EditionId = 5,
+                            OrderId = 1,
+                            PriceId = 7,
+                            Quantity = 0
+                        });
                 });
 
             modelBuilder.Entity("ASPProjekat.DomainLayer.Entities.Price", b =>
@@ -414,6 +621,57 @@ namespace ASPProjekat.DataAccess.Migrations
                     b.HasIndex("EditionId");
 
                     b.ToTable("Prices");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            EditionId = 1,
+                            Value = 65m
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            EditionId = 2,
+                            Value = 70m
+                        },
+                        new
+                        {
+                            Id = 3,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            EditionId = 3,
+                            Value = 70m
+                        },
+                        new
+                        {
+                            Id = 4,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            EditionId = 3,
+                            Value = 45m
+                        },
+                        new
+                        {
+                            Id = 5,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            EditionId = 4,
+                            Value = 43m
+                        },
+                        new
+                        {
+                            Id = 6,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            EditionId = 4,
+                            Value = 40m
+                        },
+                        new
+                        {
+                            Id = 7,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            EditionId = 5,
+                            Value = 36m
+                        });
                 });
 
             modelBuilder.Entity("ASPProjekat.DomainLayer.Entities.Publisher", b =>
@@ -446,6 +704,20 @@ namespace ASPProjekat.DataAccess.Migrations
                         .IsUnique();
 
                     b.ToTable("Publishers");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Name = "Best Books"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Name = "Fantasy Reader"
+                        });
                 });
 
             modelBuilder.Entity("ASPProjekat.DomainLayer.Entities.Role", b =>
@@ -478,6 +750,20 @@ namespace ASPProjekat.DataAccess.Migrations
                         .IsUnique();
 
                     b.ToTable("Roles");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Name = "admin"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Name = "user"
+                        });
                 });
 
             modelBuilder.Entity("ASPProjekat.DomainLayer.Entities.RoleUseCase", b =>
@@ -512,6 +798,99 @@ namespace ASPProjekat.DataAccess.Migrations
                     b.HasIndex("UseCaseId");
 
                     b.ToTable("RolesUseCases");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            RoleId = 1,
+                            UseCaseId = 1
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            RoleId = 1,
+                            UseCaseId = 2
+                        },
+                        new
+                        {
+                            Id = 3,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            RoleId = 1,
+                            UseCaseId = 3
+                        },
+                        new
+                        {
+                            Id = 4,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            RoleId = 1,
+                            UseCaseId = 4
+                        },
+                        new
+                        {
+                            Id = 5,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            RoleId = 1,
+                            UseCaseId = 5
+                        },
+                        new
+                        {
+                            Id = 6,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            RoleId = 1,
+                            UseCaseId = 6
+                        },
+                        new
+                        {
+                            Id = 7,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            RoleId = 1,
+                            UseCaseId = 7
+                        },
+                        new
+                        {
+                            Id = 8,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            RoleId = 1,
+                            UseCaseId = 8
+                        },
+                        new
+                        {
+                            Id = 9,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            RoleId = 1,
+                            UseCaseId = 9
+                        },
+                        new
+                        {
+                            Id = 10,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            RoleId = 1,
+                            UseCaseId = 10
+                        },
+                        new
+                        {
+                            Id = 11,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            RoleId = 2,
+                            UseCaseId = 1
+                        },
+                        new
+                        {
+                            Id = 12,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            RoleId = 1,
+                            UseCaseId = 4
+                        },
+                        new
+                        {
+                            Id = 13,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            RoleId = 1,
+                            UseCaseId = 8
+                        });
                 });
 
             modelBuilder.Entity("ASPProjekat.DomainLayer.Entities.Store", b =>
@@ -551,6 +930,24 @@ namespace ASPProjekat.DataAccess.Migrations
                     b.HasIndex("CityId");
 
                     b.ToTable("Stores");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Address = "Sesame Street 17",
+                            CityId = 1,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Name = "Bookstore 1"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Address = "Pineapple Street 13",
+                            CityId = 2,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Name = "Bookstore 2"
+                        });
                 });
 
             modelBuilder.Entity("ASPProjekat.DomainLayer.Entities.StoreEdition", b =>
@@ -585,6 +982,57 @@ namespace ASPProjekat.DataAccess.Migrations
                     b.HasIndex("StoreId");
 
                     b.ToTable("StoresEditions");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            EditionId = 1,
+                            StoreId = 1
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            EditionId = 2,
+                            StoreId = 1
+                        },
+                        new
+                        {
+                            Id = 3,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            EditionId = 3,
+                            StoreId = 1
+                        },
+                        new
+                        {
+                            Id = 4,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            EditionId = 1,
+                            StoreId = 2
+                        },
+                        new
+                        {
+                            Id = 5,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            EditionId = 4,
+                            StoreId = 1
+                        },
+                        new
+                        {
+                            Id = 6,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            EditionId = 5,
+                            StoreId = 1
+                        },
+                        new
+                        {
+                            Id = 7,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            EditionId = 2,
+                            StoreId = 1
+                        });
                 });
 
             modelBuilder.Entity("ASPProjekat.DomainLayer.Entities.UseCase", b =>
@@ -617,6 +1065,68 @@ namespace ASPProjekat.DataAccess.Migrations
                         .IsUnique();
 
                     b.ToTable("UseCases");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Name = "Search Books"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Name = "Search Users"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Name = "Search Orders"
+                        },
+                        new
+                        {
+                            Id = 4,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Name = "Check Availability"
+                        },
+                        new
+                        {
+                            Id = 5,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Name = "Register User"
+                        },
+                        new
+                        {
+                            Id = 6,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Name = "Create Book"
+                        },
+                        new
+                        {
+                            Id = 7,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Name = "Create Edition"
+                        },
+                        new
+                        {
+                            Id = 8,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Name = "Create Order"
+                        },
+                        new
+                        {
+                            Id = 9,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Name = "Update Book"
+                        },
+                        new
+                        {
+                            Id = 10,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Name = "Update Edition"
+                        });
                 });
 
             modelBuilder.Entity("ASPProjekat.DomainLayer.Entities.UseCaseLog", b =>
@@ -649,7 +1159,7 @@ namespace ASPProjekat.DataAccess.Migrations
                     b.Property<int>("UseCaseId")
                         .HasColumnType("int");
 
-                    b.Property<int>("UserId")
+                    b.Property<int?>("UserId")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
@@ -711,6 +1221,28 @@ namespace ASPProjekat.DataAccess.Migrations
                     b.HasIndex("RoleId");
 
                     b.ToTable("Users");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Email = "user@test.com",
+                            FirstName = "Mark",
+                            LastName = "White",
+                            Password = "$2a$10$VMZFGGXfChMIRvz5uDZ4u.byKO7TONdtjE8tEthucudYlJIekijvG",
+                            RoleId = 2
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Email = "admin@test.com",
+                            FirstName = "Jack",
+                            LastName = "Black",
+                            Password = "$2a$10$5qLqGLR2aMhxkj/UXr7yy.P72qhv8dFW3YzRzhE4zjDuLgmHR/A7i",
+                            RoleId = 1
+                        });
                 });
 
             modelBuilder.Entity("ASPProjekat.DomainLayer.Entities.Wishlist", b =>
@@ -745,6 +1277,29 @@ namespace ASPProjekat.DataAccess.Migrations
                     b.HasIndex("UserId");
 
                     b.ToTable("Wishlists");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            EditionId = 1,
+                            UserId = 1
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            EditionId = 2,
+                            UserId = 1
+                        },
+                        new
+                        {
+                            Id = 3,
+                            CreatedAt = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            EditionId = 4,
+                            UserId = 1
+                        });
                 });
 
             modelBuilder.Entity("ASPProjekat.DomainLayer.Entities.Book", b =>
@@ -924,8 +1479,7 @@ namespace ASPProjekat.DataAccess.Migrations
                     b.HasOne("ASPProjekat.DomainLayer.Entities.User", "User")
                         .WithMany("UseCaseLogs")
                         .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Restrict)
-                        .IsRequired();
+                        .OnDelete(DeleteBehavior.Restrict);
 
                     b.Navigation("UseCase");
 

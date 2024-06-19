@@ -10,7 +10,7 @@ namespace ASPProjekat.DomainLayer.Entities
     {
         public int UseCaseId {  get; set; }
         public virtual UseCase UseCase { get; set; }
-        public int UserId { get; set; }
+        public int? UserId { get; set; }
         public bool IsLoggedIn { get; set; }
         public string UseCaseData {  get; set; }
         public virtual User User { get; set; }

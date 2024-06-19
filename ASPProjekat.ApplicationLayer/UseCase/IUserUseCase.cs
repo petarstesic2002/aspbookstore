@@ -9,10 +9,7 @@ namespace ASPProjekat.ApplicationLayer.UseCase
     public interface IUserUseCase
     {
         int Id {  get; }
-        string FirstName { get; }
-        string LastName { get; }
         string Email { get; }
-        int RoleId {  get; }
         IEnumerable<int> AllowedUseCases { get; }
     }
 }

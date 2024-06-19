@@ -3,6 +3,8 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
+#pragma warning disable CA1814 // Prefer jagged arrays over multidimensional
+
 namespace ASPProjekat.DataAccess.Migrations
 {
     /// <inheritdoc />
@@ -346,7 +348,7 @@ namespace ASPProjekat.DataAccess.Migrations
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     UseCaseId = table.Column<int>(type: "int", nullable: false),
-                    UserId = table.Column<int>(type: "int", nullable: false),
+                    UserId = table.Column<int>(type: "int", nullable: true),
                     IsLoggedIn = table.Column<bool>(type: "bit", nullable: false),
                     UseCaseData = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: false),
                     CreatedAt = table.Column<DateTime>(type: "datetime2", nullable: false, defaultValueSql: "GETDATE()"),
@@ -430,7 +432,6 @@ namespace ASPProjekat.DataAccess.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     StoreId = table.Column<int>(type: "int", nullable: false),
                     EditionId = table.Column<int>(type: "int", nullable: false),
-                    Quantity = table.Column<int>(type: "int", nullable: false),
                     CreatedAt = table.Column<DateTime>(type: "datetime2", nullable: false, defaultValueSql: "GETDATE()"),
                     ModifiedAt = table.Column<DateTime>(type: "datetime2", nullable: true),
                     DeletedAt = table.Column<DateTime>(type: "datetime2", nullable: true)
@@ -461,6 +462,7 @@ namespace ASPProjekat.DataAccess.Migrations
                     OrderId = table.Column<int>(type: "int", nullable: false),
                     EditionId = table.Column<int>(type: "int", nullable: false),
                     PriceId = table.Column<int>(type: "int", nullable: false),
+                    Quantity = table.Column<int>(type: "int", nullable: false),
                     CreatedAt = table.Column<DateTime>(type: "datetime2", nullable: false, defaultValueSql: "GETDATE()"),
                     ModifiedAt = table.Column<DateTime>(type: "datetime2", nullable: true),
                     DeletedAt = table.Column<DateTime>(type: "datetime2", nullable: true)
@@ -486,6 +488,203 @@ namespace ASPProjekat.DataAccess.Migrations
                         principalTable: "Prices",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Restrict);
+                });
+
+            migrationBuilder.InsertData(
+                table: "Authors",
+                columns: new[] { "Id", "DeletedAt", "ModifiedAt", "Name" },
+                values: new object[,]
+                {
+                    { 1, null, null, "George Martin" },
+                    { 2, null, null, "JK Rowling" }
+                });
+
+            migrationBuilder.InsertData(
+                table: "Countries",
+                columns: new[] { "Id", "DeletedAt", "ModifiedAt", "Name" },
+                values: new object[] { 1, null, null, "United Kingdom" });
+
+            migrationBuilder.InsertData(
+                table: "Genres",
+                columns: new[] { "Id", "DeletedAt", "ModifiedAt", "Name" },
+                values: new object[,]
+                {
+                    { 1, null, null, "Fantasy" },
+                    { 2, null, null, "Drama" },
+                    { 3, null, null, "Manga" }
+                });
+
+            migrationBuilder.InsertData(
+                table: "Images",
+                columns: new[] { "Id", "DeletedAt", "ModifiedAt", "Path" },
+                values: new object[] { 1, null, null, "default.png" });
+
+            migrationBuilder.InsertData(
+                table: "Publishers",
+                columns: new[] { "Id", "DeletedAt", "ModifiedAt", "Name" },
+                values: new object[,]
+                {
+                    { 1, null, null, "Best Books" },
+                    { 2, null, null, "Fantasy Reader" }
+                });
+
+            migrationBuilder.InsertData(
+                table: "Roles",
+                columns: new[] { "Id", "DeletedAt", "ModifiedAt", "Name" },
+                values: new object[,]
+                {
+                    { 1, null, null, "admin" },
+                    { 2, null, null, "user" }
+                });
+
+            migrationBuilder.InsertData(
+                table: "UseCases",
+                columns: new[] { "Id", "DeletedAt", "ModifiedAt", "Name" },
+                values: new object[,]
+                {
+                    { 1, null, null, "Search Books" },
+                    { 2, null, null, "Search Users" },
+                    { 3, null, null, "Search Orders" },
+                    { 4, null, null, "Check Availability" },
+                    { 5, null, null, "Register User" },
+                    { 6, null, null, "Create Book" },
+                    { 7, null, null, "Create Edition" },
+                    { 8, null, null, "Create Order" },
+                    { 9, null, null, "Update Book" },
+                    { 10, null, null, "Update Edition" }
+                });
+
+            migrationBuilder.InsertData(
+                table: "Books",
+                columns: new[] { "Id", "AuthorId", "DeletedAt", "Description", "Isbn", "ModifiedAt", "PublicationYear", "Title" },
+                values: new object[,]
+                {
+                    { 1, 2, null, "Harry Potter Wizard Prodigy", "harrypotterisbn", null, "2002", "Harry Potter" },
+                    { 2, 1, null, "Game Of Thrones Book", "gotisbn", null, "2003", "Game Of Thrones" },
+                    { 3, 1, null, "Attack On Titan - Shingeki No Kyojin", "aotisbn", null, "2017", "Attack On Titan" }
+                });
+
+            migrationBuilder.InsertData(
+                table: "Cities",
+                columns: new[] { "Id", "CountryId", "DeletedAt", "ModifiedAt", "Name", "ZipCode" },
+                values: new object[,]
+                {
+                    { 1, 1, null, null, "London", "zip1" },
+                    { 2, 1, null, null, "Manchester", "zip2" }
+                });
+
+            migrationBuilder.InsertData(
+                table: "RolesUseCases",
+                columns: new[] { "Id", "DeletedAt", "ModifiedAt", "RoleId", "UseCaseId" },
+                values: new object[,]
+                {
+                    { 1, null, null, 1, 1 },
+                    { 2, null, null, 1, 2 },
+                    { 3, null, null, 1, 3 },
+                    { 4, null, null, 1, 4 },
+                    { 5, null, null, 1, 5 },
+                    { 6, null, null, 1, 6 },
+                    { 7, null, null, 1, 7 },
+                    { 8, null, null, 1, 8 },
+                    { 9, null, null, 1, 9 },
+                    { 10, null, null, 1, 10 },
+                    { 11, null, null, 2, 1 },
+                    { 12, null, null, 1, 4 },
+                    { 13, null, null, 1, 8 }
+                });
+
+            migrationBuilder.InsertData(
+                table: "Users",
+                columns: new[] { "Id", "DeletedAt", "Email", "FirstName", "LastName", "ModifiedAt", "Password", "RoleId" },
+                values: new object[,]
+                {
+                    { 1, null, "user@test.com", "Mark", "White", null, "$2a$10$VMZFGGXfChMIRvz5uDZ4u.byKO7TONdtjE8tEthucudYlJIekijvG", 2 },
+                    { 2, null, "admin@test.com", "Jack", "Black", null, "$2a$10$5qLqGLR2aMhxkj/UXr7yy.P72qhv8dFW3YzRzhE4zjDuLgmHR/A7i", 1 }
+                });
+
+            migrationBuilder.InsertData(
+                table: "BooksGenres",
+                columns: new[] { "Id", "BookId", "DeletedAt", "GenreId", "ModifiedAt" },
+                values: new object[,]
+                {
+                    { 1, 1, null, 1, null },
+                    { 2, 2, null, 1, null },
+                    { 3, 2, null, 2, null },
+                    { 4, 3, null, 1, null },
+                    { 5, 3, null, 3, null }
+                });
+
+            migrationBuilder.InsertData(
+                table: "Editions",
+                columns: new[] { "Id", "BookId", "DeletedAt", "ImageId", "ModifiedAt", "PublisherId" },
+                values: new object[,]
+                {
+                    { 1, 1, null, 1, null, 1 },
+                    { 2, 1, null, 1, null, 2 },
+                    { 3, 2, null, 1, null, 1 },
+                    { 4, 3, null, 1, null, 1 },
+                    { 5, 3, null, 1, null, 2 }
+                });
+
+            migrationBuilder.InsertData(
+                table: "Orders",
+                columns: new[] { "Id", "DeletedAt", "ModifiedAt", "UserId" },
+                values: new object[] { 1, null, null, 1 });
+
+            migrationBuilder.InsertData(
+                table: "Stores",
+                columns: new[] { "Id", "Address", "CityId", "DeletedAt", "ModifiedAt", "Name" },
+                values: new object[,]
+                {
+                    { 1, "Sesame Street 17", 1, null, null, "Bookstore 1" },
+                    { 2, "Pineapple Street 13", 2, null, null, "Bookstore 2" }
+                });
+
+            migrationBuilder.InsertData(
+                table: "Prices",
+                columns: new[] { "Id", "DeletedAt", "EditionId", "ModifiedAt", "Value" },
+                values: new object[,]
+                {
+                    { 1, null, 1, null, 65m },
+                    { 2, null, 2, null, 70m },
+                    { 3, null, 3, null, 70m },
+                    { 4, null, 3, null, 45m },
+                    { 5, null, 4, null, 43m },
+                    { 6, null, 4, null, 40m },
+                    { 7, null, 5, null, 36m }
+                });
+
+            migrationBuilder.InsertData(
+                table: "StoresEditions",
+                columns: new[] { "Id", "DeletedAt", "EditionId", "ModifiedAt", "StoreId" },
+                values: new object[,]
+                {
+                    { 1, null, 1, null, 1 },
+                    { 2, null, 2, null, 1 },
+                    { 3, null, 3, null, 1 },
+                    { 4, null, 1, null, 2 },
+                    { 5, null, 4, null, 1 },
+                    { 6, null, 5, null, 1 },
+                    { 7, null, 2, null, 1 }
+                });
+
+            migrationBuilder.InsertData(
+                table: "Wishlists",
+                columns: new[] { "Id", "DeletedAt", "EditionId", "ModifiedAt", "UserId" },
+                values: new object[,]
+                {
+                    { 1, null, 1, null, 1 },
+                    { 2, null, 2, null, 1 },
+                    { 3, null, 4, null, 1 }
+                });
+
+            migrationBuilder.InsertData(
+                table: "OrderItems",
+                columns: new[] { "Id", "DeletedAt", "EditionId", "ModifiedAt", "OrderId", "PriceId", "Quantity" },
+                values: new object[,]
+                {
+                    { 1, null, 3, null, 1, 4, 0 },
+                    { 2, null, 5, null, 1, 7, 0 }
                 });
 
             migrationBuilder.CreateIndex(

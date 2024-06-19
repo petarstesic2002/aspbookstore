@@ -15,7 +15,7 @@ namespace ASPProjekat.Implementation.UseCases.Queries
     public class EfGetBooks : EfUseCase,IGetBooks
     {
         public EfGetBooks(ASPContext context) : base(context) { }
-        public int Id => 3;
+        public int Id => 1;
         public string Name => "Search Books";
         public PagedResponseDto<BookDto> Execute(BookSearchDto search)
         {

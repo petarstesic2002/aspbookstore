@@ -13,7 +13,7 @@ namespace ASPProjekat.Implementation.UseCases.Queries
     public class EfGetUsers : EfUseCase, IGetUsers
     {
         public EfGetUsers(ASPContext context):base(context) { }
-        public int Id => 3;//ZAMENI POSLE
+        public int Id => 2;
 
         string IUseCase.Name => "Search Users";
         public PagedResponseDto<UserDto> Execute(UserSearchDto search)

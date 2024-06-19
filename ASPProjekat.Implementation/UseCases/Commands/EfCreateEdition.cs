@@ -14,9 +14,9 @@ namespace ASPProjekat.Implementation.UseCases.Commands
 {
     public class EfCreateEdition:EfUseCase,ICreateEdition
     {
-        public int Id => 2;
+        public int Id => 7;
         public string Name => "Create Edition";
-        private ASPContext Context;
+        //private ASPContext Context;
         private CreateEditionValidator _validator;
         public EfCreateEdition(ASPContext context,CreateEditionValidator validator):base(context)
         {

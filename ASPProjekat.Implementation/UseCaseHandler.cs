@@ -41,6 +41,7 @@ namespace ASPProjekat.Implementation
         }
         private void HandleCrossCuttingConcerns(IUseCase useCase, object data)
         {
+            Console.WriteLine(useCase.Id);
             if (!_user.AllowedUseCases.Contains(useCase.Id))
             {
                 throw new UnauthorizedAccessException();

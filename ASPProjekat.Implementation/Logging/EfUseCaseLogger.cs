@@ -26,7 +26,7 @@ namespace ASPProjekat.Implementation.Logging
             {
                 UseCaseData = JsonConvert.SerializeObject(logObj.UseCaseData),
                 UseCaseId = logObj.UseCaseId,
-                UserId = logObj.UserId
+                UserId = logObj.UserId!=0? logObj.UserId:null
             });
             _context.SaveChanges();
         }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "V5gmLVEkpkA1nKlJ7r8BYf2g3QgCASjFTKTdUwntK0E=",
+  "Hash": "XBS+zoZK1hHlOkZO1rnJePvZ6DVECuGD4570BQPatwE=",
   "Source": "ASPProjekat.API",
   "BasePath": "_content/ASPProjekat.API",
   "Mode": "Default",
@@ -15,5 +15,25 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.API\\wwwroot\\images\\editions\\default.png",
+      "SourceId": "ASPProjekat.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Petar\\source\\repos\\ASPProjekat\\ASPProjekat.API\\wwwroot\\",
+      "BasePath": "_content/ASPProjekat.API",
+      "RelativePath": "images/editions/default.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\editions\\default.png"
+    }
+  ]
 }

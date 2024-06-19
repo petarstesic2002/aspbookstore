@@ -12,7 +12,7 @@ namespace ASPProjekat.Implementation.UseCases.Queries
     public class EfCheckBookAvailability : EfUseCase, ICheckBookAvailability
     {
         public EfCheckBookAvailability(ASPContext context) : base(context) { }
-        public int Id => 3;
+        public int Id => 4;
         public string Name => "Check Book Availability";
         
         public PagedResponseDto<BookAvailabilityDto> Execute(BookAvailabilitySearchDto search)
